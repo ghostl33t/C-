@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BfT3GyiYMRrQ0U2wdK5l6u6U5Abdu0QXRM9udIpIdek1L2Jwq1VQJmeSi3qP4sH0scLMIQG7nhkRIuFvdEyX/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Userer\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\WindowsFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Userer\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\Userer\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.1\\system.data.sqlite.core.1.0.113.1.nupkg.sha512",
+    "C:\\Users\\Userer\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
